@@ -1,0 +1,22 @@
+{
+  "name": "mcagopi",
+  "version": "1.0.0",
+  "description": "Gopi's first NPM package program",
+  "main": "index.js",
+  "scripts": {
+    "test": "gtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aagob105/mcagopi.git"
+  },
+  "keywords": [
+    "gtest"
+  ],
+  "author": "Gopinath Krishnasamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aagob105/mcagopi/issues"
+  },
+  "homepage": "https://github.com/aagob105/mcagopi#readme"
+}
